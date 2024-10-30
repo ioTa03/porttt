@@ -5,7 +5,7 @@ import { SiLeetcode } from "react-icons/si";
 
 const Social= () => {
   return (
-    <div className="hidden md:flex flex-col top-[30%] left-[1%] z-[1000] fixed">
+    <div className="hidden md:flex flex-col top-[30%] left-[1.5%] z-[1000] fixed">
       <ul>
       <li className="flex justify-between items-center w-40 h-14   hover:rounded-md hover:scale-110 duration-200 rounded-bl-md">
           <a

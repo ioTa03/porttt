@@ -83,7 +83,7 @@ const projects = [
 const Portfolio = () => {
   return (
     <div name="portfolio" className="bg-black text-white w-full py-10">
-      <div className="px-24 p-20 flex flex-col justify-start"> {/* Adjusted for full width */}
+      <div className="px-24 p-20 flex flex-col mt-12 justify-start"> {/* Adjusted for full width */}
         <div className="pb-8 ">
           <p className="text-4xl font-bold inline border-b-4 border-red-700 text-white hover:scale-105 hover:text-pink-200 duration-300">
             Projects
